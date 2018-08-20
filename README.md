@@ -1,4 +1,5 @@
 # NougatAdaptApplication
+Android 7.0 和 6.0适配
 
 1.Android 7.0,   "file://URI" will trigger a  FileUriExposedException
 
